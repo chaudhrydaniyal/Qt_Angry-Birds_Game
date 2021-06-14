@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/a">
+        <file>D.png</file>
+        <file>a.png</file>
+        <file>angrybird.png</file>
+        <file>abc.png</file>
+        <file>ac.png</file>
+        <file>ab.png</file>
+        <file>Fo.png</file>
+        <file>r.png</file>
+        <file>ru.png</file>
+        <file>s.mp3</file>
+        <file>fly.mp3</file>
+        <file>destroy.mp3</file>
+        <file>H.mp3</file>
+    </qresource>
+</RCC>
